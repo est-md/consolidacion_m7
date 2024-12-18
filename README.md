@@ -1,4 +1,4 @@
-# Práctica de consolidación módulo 7: ORM coon django
+# Práctica de consolidación módulo 7: ORM con django
 
 ORM (Object-Relational Mapping) con framewok django
 
